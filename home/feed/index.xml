@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: home	</title>
-	<atom:link href="http://Santolayaing.github.io/home/feed/" rel="self" type="application/rss+xml" />
-	<link>http://Santolayaing.github.io/home/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Santolaya Ingenieros Consultores</description>
 	<lastBuildDate>Thu, 13 Oct 2022 21:01:14 +0000</lastBuildDate>
 	<sy:updatePeriod>

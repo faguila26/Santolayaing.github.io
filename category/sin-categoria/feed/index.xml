@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sin categoría &#8211; https://www.santolayaing.cl/</title>
-	<atom:link href="http://Santolayaing.github.io/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link>http://Santolayaing.github.io</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Santolaya Ingenieros Consultores</description>
 	<lastBuildDate>Thu, 06 Apr 2023 08:27:48 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,44 +21,44 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>http://Santolayaing.github.io/wp-content/uploads/2022/10/logo.png</url>
+	<url>./../../../wp-content/uploads/2022/10/logo.png</url>
 	<title>Sin categoría &#8211; https://www.santolayaing.cl/</title>
-	<link>http://Santolayaing.github.io</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Edificios Oficinas</title>
-		<link>http://Santolayaing.github.io/edificios-oficinas/</link>
-					<comments>http://Santolayaing.github.io/edificios-oficinas/#respond</comments>
+		<link>./../../../edificios-oficinas/index.html</link>
+					<comments>./../../../edificios-oficinas/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[nocturnoart]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 08:26:50 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">http://Santolayaing.github.io/?p=1434</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1434</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://Santolayaing.github.io/edificios-oficinas/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../edificios-oficinas/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>home</title>
-		<link>http://Santolayaing.github.io/home/</link>
-					<comments>http://Santolayaing.github.io/home/#respond</comments>
+		<link>./../../../home/index.html</link>
+					<comments>./../../../home/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[nocturnoart]]></dc:creator>
 		<pubDate>Thu, 13 Oct 2022 21:01:14 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">http://Santolayaing.github.io/?p=30</guid>
+		<guid isPermaLink="false">./../../../index.html?p=30</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://Santolayaing.github.io/home/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../home/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
